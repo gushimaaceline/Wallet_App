@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Credit Card</string>
+    <string name="amount">Amount:</string>
+    <string name="textview">TextView</string>
+    <string name="reference">Reference:</string>
+    <string name="textview">TextView</string>
+    <string name="date">Date:</string>
+    <string name="textview">TextView</string>
+    <string name="transaction">Transaction</string>
+    <string name="textview">TextView</string>
+    <string name="description">Description:</string>
+    <string name="textview">TextView</string>
+    <string name="debit_credit">Debit/Credit</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="check_transaction">Check Transaction</string>
+    <string name="acc_name">Acc Name</string>
+    <string name="textview">TextView</string>
+</resources>
